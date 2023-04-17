@@ -1,4 +1,4 @@
-### Hola a tod@s mi nombre es Sergio y soy arquitecto y desarrolador en Microsoft Power Platform 👋
+### Hola a tod@s mi nombre es Sergio y soy arquitecto y desarrollador en Microsoft Power Platform 👋
 
 - 🔭 Actualmente estoy trabajando en Plain Concepts, en el equipo de Microsoft 365, que se encarga de llevar a cabo todos los proyectos relacionados con las herramientas de Power Platform y Microsoft 365. 
 - 🌱 Además, como soy un apasionado de la programación y el desarrollo web, estoy aprendiendo otros lenguajes de programación y frameworks que parecen muy interesantes: HTML, CSS, JS, TS, React, C#, Python, Pynecone, Django, Flask....
